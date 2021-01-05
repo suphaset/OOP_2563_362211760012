@@ -21,7 +21,6 @@ public class Exercise_STD_Profile {
 
         System.out.print("Enter Email: ");
         String Email =scanner.nextLine();
-1
 
         System.out.println(Name);
         System.out.println(Id);
