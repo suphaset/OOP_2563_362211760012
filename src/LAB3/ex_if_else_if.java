@@ -26,7 +26,7 @@ public class ex_if_else_if {
         }else  if (score >=80 &&score <= 100){
             System.out.println("A");
         }else {
-            System.out.println("Your input score is invalid");
+            System.out.println("Your input score is invalid.");
 
         }
 

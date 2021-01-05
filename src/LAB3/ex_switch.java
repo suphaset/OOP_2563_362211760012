@@ -25,7 +25,7 @@ public class ex_switch {
             case  4:System.out.println("มะม่วง ต้องทานกับช้าวเหนียวมูลเท่านั้น");
             break;
 
-            default:System.out.println("ขอโทษที มีผลไมแค่ 4 ชนิดเเท่านั้นนะ");
+            default:System.out.println("ขอโทษที มีผลไมแค่ 4 ชนิดเเท่านั้นนะจะ");
         }
 
         System.out.println("Good Bye");

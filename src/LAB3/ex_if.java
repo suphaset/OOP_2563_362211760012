@@ -10,7 +10,7 @@ public class ex_if {
     }else {
         System.out.println("False");
     }
-    System.out.println("Good Bye.");
+    System.out.println("Good Bye. ");
 
 
 
