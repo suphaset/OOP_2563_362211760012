@@ -73,4 +73,7 @@ public class Person {
                 ", tel='" + tel + '\'' +
                 '}';
     }
+
+    protected void introduce() {
+    }
 }
